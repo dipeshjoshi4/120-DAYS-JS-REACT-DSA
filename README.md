@@ -3,7 +3,18 @@ here i share my all journey of My 50 days of learning javascript &amp; react .My
 
 Starting Date : 11th July 2023
 
-# DAY-1-
+# DAY-1-JAVASCRIPT BASICS
+
+- Variable name convention Rules
+- Datatypes in Javascript
+- What Is NaN?
+- Type Of Operators
+- Difference With Null vs Undefined
+- Expression And Operators
+- What Is Difference between == vs === ?
+- Control Statements And Loops
+- Some Challanges & Practise
+
 
 
 
