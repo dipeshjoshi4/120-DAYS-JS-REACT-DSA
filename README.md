@@ -7,6 +7,7 @@ Starting Date : 11th July 2023
 
 - Variable
 - Variable name convention Rules
+- Hoisting
 - Datatypes in Javascript
 - What Is NaN?
 - Type Of Operators
