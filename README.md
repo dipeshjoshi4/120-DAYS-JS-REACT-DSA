@@ -5,6 +5,7 @@ Starting Date : 11th July 2023
 
 # DAY-1-JAVASCRIPT BASICS
 
+- Variable
 - Variable name convention Rules
 - Datatypes in Javascript
 - What Is NaN?
