@@ -17,7 +17,12 @@ Starting Date : 11th July 2023
 - Control Statements And Loops
 - Some Challanges & Practise
 
+## 🔗 1. Web ,Server & Hosting
 
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/javascript-basic)
+
+
+![plot](https://images.unsplash.com/photo-1546464033-5b15cf1168f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=40)
 
 
 
