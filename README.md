@@ -14,7 +14,7 @@ Starting Date : 11th July 2023
 - Difference With Null vs Undefined
 - Expression And Operators
 - What Is Difference between == vs === ?
-- Control Statements And Loops
+- Control Statements And Loops [Article-2]
 - Some Challanges & Practise
 
 ## 🔗 1.JAVASCRIPT BASICS
