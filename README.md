@@ -28,6 +28,8 @@ Starting Date : 11th July 2023
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/javascript-basic)
 
+![plot](https://images.unsplash.com/photo-1527427337751-fdca2f128ce5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=40)
+
 
 
 ## 🔗 Links
