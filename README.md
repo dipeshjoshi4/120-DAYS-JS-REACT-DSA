@@ -262,7 +262,10 @@ Starting Date : 3rd augest 2023
 
 ![plot](https://images.unsplash.com/photo-1527427337751-fdca2f128ce5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=40)
 
-# DAY-3-JAVASCRIPT OBJECTS
+## Day-2-
+
+# Make a Guess the Number Project
+
 
 ## 🔗 Links
 
