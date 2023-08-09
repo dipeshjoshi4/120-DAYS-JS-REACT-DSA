@@ -265,6 +265,8 @@ Starting Date : 3rd augest 2023
 ## Day-2-
 
 # Make a Guess the Number Project
+- Tech stack :- javascript
+- its a simple Project that make DOM Practise More Stronger
 
 
 ## 🔗 Links
