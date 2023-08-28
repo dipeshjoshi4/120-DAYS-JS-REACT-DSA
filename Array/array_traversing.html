@@ -1,0 +1,50 @@
+<!--
+    Array Traversing and Accessing
+
+Traversing/itrate => check out one,one element
+Accessing => access any specific element
+
+ -make a HTML Page write basic array
+ -Travesing with loop
+ -accessing elements
+ -access elements with text input and button
+ -validation 
+ 
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Array Traversing</title>
+    <script>
+
+        let data = [9, 45, 77, 22, 456, 78, 99, 55, 222, 455, 88, 999]
+
+        //traversing
+        // for (let i = 0; i < data.length; i++) {
+        //     document.write(`${data[i]} <br>`)
+        // }
+
+        //access
+        // let x = 6;
+        // document.write(data[x]);
+
+        function getElement() {
+            let el = document.getElementById('element').value
+            if (el < data.length && typeof parseInt(el) === "number" && el >= 0) {
+                alert(data[el]);
+            } else {
+                alert("pleaser eneter valid input");
+            }
+        }
+
+    </script>
+</head>
+
+<body>
+    <input type="text" id="element">
+    <button onclick="getElement()">Get Element</button>
+</body>
+
+</html>
