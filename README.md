@@ -20,7 +20,7 @@ here i share my all journey of My 50 days of learning javascript &amp; react .My
 - Control Statements And Loops [Article-2]
 - Some Challanges & Practise
 
-## PROJECTS MINI TO LARGE
+# PROJECTS MINI TO LARGE
 
 # 1.Make a Guess the Number Project
 - Tech stack :- javascript
