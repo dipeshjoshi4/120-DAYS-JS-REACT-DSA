@@ -1,7 +1,7 @@
 # 50-DAYS-JS-REACT
 here i share my all journey of My 50 days of learning javascript &amp; react .My Projects, Blogs &amp; all the concept which i learn and document here
 
-(07-08-2023 to 25-09-2023)
+(28-08-2023 to 28-12-2023)
 
 # DAY-1
 
