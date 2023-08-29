@@ -1,4 +1,5 @@
-# 50-DAYS-JS-REACT
+## 120-DAYS-JS-REACT-DSA
+
 here i share my all journey of My 50 days of learning javascript &amp; react .My Projects, Blogs &amp; all the concept which i learn and document here
 
 (28-08-2023 to 28-12-2023)
