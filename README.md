@@ -27,7 +27,8 @@ here i share my all journey of My 120 days of learning javascript &amp; react .M
 - its a simple Project that make DOM Practise More Stronger
 
 ### 2.Modal Project
-
+- Tech stack :- javascript
+- its a simple Project that make DOM Practise More Stronger
 
 
 ## 🔗 Links
