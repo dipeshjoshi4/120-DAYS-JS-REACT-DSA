@@ -1,0 +1,124 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+}
+
+.buttons-img {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.dice {
+  height: 200px;
+  width: 200px;
+}
+
+.btn {
+  color: #444;
+  background: none;
+  border: none;
+  font-family: inherit;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: 400;
+  transition: all 0.2s;
+  background-color: white;
+  background-color: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(10px);
+  padding: 0.7rem 2.5rem;
+  border-radius: 50rem;
+  box-shadow: 0 1.75rem 3.5rem rgba(0, 0, 0, 0.1);
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 62.5%;
+  color: white;
+  background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%);
+  font-family: "Nunito", sans-serif;
+  font-weight: 400;
+}
+
+.left-container {
+  height: 80vh;
+  width: 30vw;
+  border-radius: 18px 0px 0px 18px;
+  /* off roll colour */
+  background-color: #c17990;
+  /* on roll colour */
+  /* background-color: #d6afc0; */
+}
+
+.right-container {
+  height: 80vh;
+  width: 30vw;
+  border-radius: 0px 18px 18px 0px;
+  /* off roll colour */
+  background-color: #c17990;
+  /* on roll colour */
+  /* background-color: #d6afc0; */
+}
+
+.left-container-subpart {
+  display: flex;
+  padding-top: 10em;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 180px;
+}
+
+.right-container-subpart {
+  display: flex;
+  padding-top: 10em;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 180px;
+}
+
+.scorecard-info {
+  font-family: "Nunito", sans-serif;
+  font-weight: 300;
+  font-size: 2em;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+  color: #c7365f;
+}
+
+.scoreboard {
+  font-family: "Nunito", sans-serif;
+  font-weight: 400;
+  font-size: 2em;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 130px;
+  width: 210px;
+  border-radius: 15px;
+  background-color: #c7365f;
+}
